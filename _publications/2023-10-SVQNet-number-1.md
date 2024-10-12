@@ -1,7 +1,7 @@
 ------
 title: "SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-10-SVQNet-number-1
 excerpt: 'Code available at ...'
 date: 2023-10
