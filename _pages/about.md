@@ -12,6 +12,7 @@ Welcome to my homepage! I am a second-year Ph.D. student at Tsinghua University 
 Publication
 ======
 
+<div style="width:400px;">
 <div style="float:left; clear: both;" align="center">
 <img src="/images/p3p.png" width="200" alt="" hspace="8"><br />
 </div>
@@ -20,6 +21,7 @@ Chen, X., Chen, Y., Li, J., Nie, Q., Liu, Y., Huang, Q., & Li, Y. (2024). P3P: P
 
 -----------------
 
+<div style="width:400px;">
 <div style="float:left; clear: both;" align="center">
 <img src="/images/svqnet.png" width="200" alt="" hspace="8"><br />
 </div>
