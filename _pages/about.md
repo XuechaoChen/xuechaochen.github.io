@@ -14,5 +14,6 @@ Welcome to my homepage! I am a second-year Ph.D. student at Tsinghua University 
 
 
 Chen, X., Chen, Y., Li, J., Nie, Q., Liu, Y., Huang, Q., & Li, Y. (2024). P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders. arXiv preprint arXiv:2408.10007.
-<img align="right" src="/images/bio-photo-2.jpg"/>
+
+<img align="left" src="/images/bio-photo-2.jpg"/>
 Chen, X., Xu, S., Zou, X., Cao, T., Yeung, D. Y., & Fang, L. (2023). Svqnet: Sparse voxel-adjacent query network for 4d spatio-temporal lidar semantic segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 8569-8578).
