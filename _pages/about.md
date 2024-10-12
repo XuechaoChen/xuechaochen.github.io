@@ -14,7 +14,7 @@ Publication
 
 <div>
 <div style="float:left; clear: both;" align="center">
-<img src="/images/p3p.png" width="400" alt="" hspace="8"><br />
+<img src="/images/p3p.png" width="200" alt="" hspace="8"><br />
 </div>
 Chen, X., Chen, Y., Li, J., Nie, Q., Liu, Y., Huang, Q., & Li, Y. (2024). P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders. arXiv preprint arXiv:2408.10007. 
 </div>
@@ -23,7 +23,7 @@ Chen, X., Chen, Y., Li, J., Nie, Q., Liu, Y., Huang, Q., & Li, Y. (2024). P3P: P
 
 <div>
 <div style="float:left; clear: both;" align="center">
-<img src="/images/svqnet.png" width="380" alt="" hspace="8"><br />
+<img src="/images/svqnet.png" width="170" alt="" hspace="8"><br />
 </div>
 Chen, X., Xu, S., Zou, X., Cao, T., Yeung, D. Y., & Fang, L. (2023). Svqnet: Sparse voxel-adjacent query network for 4d spatio-temporal lidar semantic segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 8569-8578). 
 </div>
