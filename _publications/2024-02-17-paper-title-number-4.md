@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
