@@ -11,11 +11,12 @@ Welcome to my homepage! I am a second-year Ph.D. student at Tsinghua University 
 
 Publication
 ======
+
 <div class="publication_container" onclick="toggleDetails('119ss2');">
     
-  <div class="publication_image"><img src="/images/svqnet.png" width="180" height="180" align="left"></div>
-  <div class="publication_title"><b>SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation</b><br>
-    <p> Chen, X., Xu, S., Zou, X., Cao, T., Yeung, D. Y., & Fang, L. Svqnet: Sparse voxel-adjacent query network for 4d spatio-temporal lidar semantic segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2023.
+  <div class="publication_image"><img src="/images/p3p.png" width="180" align="left"></div>
+  <div class="publication_title"><b>P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders.</b><br>
+    <p> Chen, X., Chen, Y., Li, J., Nie, Q., Liu, Y., Huang, Q., & Li, Y. P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders. arXiv preprint arXiv:2408.10007. 2024.
     </p>
   </div>
     
@@ -25,10 +26,30 @@ Publication
 
 <div class="publication_container" onclick="toggleDetails('119ss2');">
     
-  <div class="publication_image"><img src="/images/p3p.png" width="180" height="180" align="left"></div>
-  <div class="publication_title"><b>P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders.</b><br>
-    <p> Chen, X., Chen, Y., Li, J., Nie, Q., Liu, Y., Huang, Q., & Li, Y. P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders. arXiv preprint arXiv:2408.10007. 2024.
+  <div class="publication_image"><img src="/images/svqnet.png" width="180" align="left"></div>
+  <div class="publication_title"><b>SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation</b><br>
+    <p> Chen, X., Xu, S., Zou, X., Cao, T., Yeung, D. Y., & Fang, L. Svqnet: Sparse voxel-adjacent query network for 4d spatio-temporal lidar semantic segmentation. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2023.
     </p>
   </div>
     
 </div>
+
+----------------
+
+
+Education
+======
+* Ph.D. student in Data Science and Information Technology, Tsinghua University, 2026/2027 (expected)
+* M.S. in Data Science and Information Technology, Tsinghua University, 2023
+* B.S. in Communication Engineering, Huazhong University of Science and Technology, 2020
+
+Intern experience
+======
+* 01/2024 - present: Research Intern
+  * Youtu Lab, Tencent
+  * Duties: 3D pre-training, 3D classification/segmentation/detection, multi-modal (3D/2D/text) learning
+
+* 03/2021 - 09/2021: Research Intern
+  * Deeproute.ai
+  * Duties: 3D segmentation
+
